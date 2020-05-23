@@ -3,9 +3,9 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Z gory przepraszam za termin" << endl;
     return 0;
 
-    // Komentarz
+    // Komentarz Zmiana w
 
 }
