@@ -1,0 +1,3 @@
+C:/Users/Avertis/CLionProjects/NowyNowyile/cmake-build-debug/CMakeFiles/NowyNowyile.dir
+C:/Users/Avertis/CLionProjects/NowyNowyile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Avertis/CLionProjects/NowyNowyile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
